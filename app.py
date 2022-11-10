@@ -1,4 +1,4 @@
-# Company: Openmedia.io
+# Company: MariaClara Solutions
 # Date: 10/08/2022
 # Developer: Rodel G. Bosque
 # Version: Beta
